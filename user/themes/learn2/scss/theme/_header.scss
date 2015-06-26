@@ -6,18 +6,7 @@
     padding: 1rem;
 
     a {
-        display: inline-block;
-    }
-
-    #logo-svg {
-        @extend .default-animation;
-        width: $logo-width;
-        height: $logo-height;
-
-        path {
-            @extend .default-animation;
-            fill: $white;
-        }
+        display: inline-block;	
     }
 }
 
