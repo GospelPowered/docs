@@ -1,5 +1,5 @@
 ---
-title: Overview Sunshine in the Mountains
+title: Overview
 taxonomy:
     category: docs
 ---
