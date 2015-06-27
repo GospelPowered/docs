@@ -1,5 +1,5 @@
 ---
-title: Basics Nigel
+title: Basics
 taxonomy:
     category: docs
 ---
