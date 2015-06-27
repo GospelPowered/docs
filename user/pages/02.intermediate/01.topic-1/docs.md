@@ -1,5 +1,5 @@
 ---
-title: Topic 1
+title: Topic 1 advanced
 taxonomy:
     category: docs
 process:
