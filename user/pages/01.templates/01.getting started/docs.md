@@ -1,11 +1,22 @@
 ---
-title: Overview
+title: General
 taxonomy:
     category: docs
 ---
 
+If you are signing up to any of Gospel Powered's subscription plans we will handle all the installation for you. No need to set your template up, we do the hard work so you can concentrate on what's important. If you haven't signed up for one of our plans you may want to check them out [here](http://www.gospelpowered.com/index.php/pricing)
+However, if you are purchasing one of our templates separately, or simply want to do the installation yourself the following documentation is provided. The  general section of this documentation applies to all our Joomla! templates. Available templates can be found [here](http://www.gospelpowered.com/index.php/templates)
 
-Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+
+
+
+
+
+
+
+
+
+
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
