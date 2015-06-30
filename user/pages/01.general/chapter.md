@@ -8,5 +8,6 @@ taxonomy:
 
 ###1. Getting Started
 ###2. Requirements
-###3. Features
-###4. Installation
+###3. Installation
+###4. Administration
+###5. Features
