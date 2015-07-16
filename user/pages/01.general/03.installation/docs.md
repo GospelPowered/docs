@@ -12,9 +12,13 @@ The package is a replica of the demo template showcased and is ready to start us
 When purchasing an individual package, you will be sent a link where you can download the complete package file.
 If you have purchased a subscription a full installation of your template is already included. If you wish to do the installation yourself, Gospel Powered will provide you the package file.
 
-### Copy to the site 
-Using an ftp client log into your site and copy the package file (eg harvest.zip) into the public directory of your site (/public_html).
-Extract the contents of the package file to the public directgory of the site
+### Copy to the site
+##### Using an ftp client
+Using an ftp client log into your site and copy the package file (e.g. harvest.zip) into the public directory of your site (/public_html).
+Extract the contents of the package file to the public directory of the site
+##### Using cPanel
+Log into your cPanel and go to the File Manager. Navigate to the web root directory and upload the package file (e.g. harvest.zip).
+Extract the contents of the package file to the public directory of the site.
 
 ### Begin the installation
 Once the contents of the package file have been extracted navigate to the site name using the browser. eg http://www.mychurchsite.com
