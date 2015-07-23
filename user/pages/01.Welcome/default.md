@@ -1,12 +1,12 @@
 ---
-title: Gospel Powered
+title: Welcome
 taxonomy:
     category: docs
     tag: [gospel powered]
     tag: gospel powered
 ---
 
-### Welcome
+
 
 # Gospel Powered Docs
 

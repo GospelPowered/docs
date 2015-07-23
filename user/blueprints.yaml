@@ -1,12 +1,12 @@
 name: Gospel Powered
-version: 1.0.2
+version: 1.0.0
 description:
 icon: book
 author:
   name: Gospel Powered
   email: hello@gospelpowered.com
   url: http://gospelpowered.com
-homepage: gospelpowered.com/docs/
+homepage: gospelpowered.com/docs/Welcome
 demo: http://gospelpowered.com/docs/
 keywords: gospelpowered, gospel, powered, documentation, docs
 bugs: http://gospelpowered.com/docs/issues
