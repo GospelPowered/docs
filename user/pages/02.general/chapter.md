@@ -1,5 +1,5 @@
 ---
-title: general
+title: General
 taxonomy:
     category: docs
 ---
