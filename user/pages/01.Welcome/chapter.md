@@ -8,6 +8,8 @@ taxonomy:
 
 
 
+
+
 # Gospel Powered Docs
 
 All you need to know about your Joomla/WordPress site, Gantry5 and more.
