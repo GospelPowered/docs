@@ -1,5 +1,5 @@
 home:
-  alias: '/welcome'
+  alias: '/Welcome'
 
 pages:
   theme: learn2
