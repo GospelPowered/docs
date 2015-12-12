@@ -18,6 +18,21 @@ cache/*
 assets/*
 logs/*
 images/*
+backup/*
+bin/*
+system/*
+vendor/*
+user/accounts
+user/assets
+user/config
+user/localhost
+user/plugins
+user/themes
+user/blueprints.yaml
+user/CHANGELOG.md
+user/LICENSE
+user/screenshot.jpg
+
 
 # phpstorm
 .idea/*
