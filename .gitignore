@@ -32,6 +32,13 @@ user/blueprints.yaml
 user/CHANGELOG.md
 user/LICENSE
 user/screenshot.jpg
+.htaccess
+composer.json
+index.php
+robots.txt
+web.config
+nginx.conf
+.gitattributes
 
 
 # phpstorm
